@@ -1,4 +1,4 @@
-- name: Pages
+- name: O Curso
   link: /#
   dropdown:
     - name: Page With Sidebar
@@ -17,9 +17,31 @@
       link: /page-with-contents/
     - name: Landing Page With Callouts
       link: /landing/
-- name: Products
-  link: /products/
-- name: Showcase
-  link: /showcase/
-- name: Blog
+- name: Pessoas
+  link: /pessoas/
+  dropdown:
+    - name: Coordenação
+      link: /coordenacao/
+    - name: Docentes
+      link: /corpo-docente/
+    - name: Colegiado
+      link: /colegiado/
+    - name: Núcleo Docente Estruturante
+      link: /nde/
+    - name: Secretaria Acadêmica
+      link: /secretaria/
+- name: Área do Discente
+  link: /discente/
+- name: Portal do Egresso
+  link: /blog/
+- name: Grupos de Pesquisa
+  link: /grupos-pesquisa/
+  dropdown:
+    - name: GESID
+      link: /gesid/
+    - name: GOHaN
+      link: /gohan/
+    - name: RACING
+      link: /racing/
+- name: Notícias
   link: /blog/
