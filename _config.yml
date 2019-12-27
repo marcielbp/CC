@@ -1,11 +1,11 @@
 # Site Settings
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
-email: your-email@domain.com
+title: Ciência da Computação - UFC - Campus Crateús
+tagline: Ciência da Computação - UFC - Campus Crateús
+email: computacao@crateus.ufc.br
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
-url: "https://www.csrhymes.com"
+  Bacharelado em Ciência da Computação - UFC - Campus Crateús
+baseurl: "/CC"
+url: "https:/marcielbp.github.io/CC"
 permalink: pretty
 #favicon: /path/to/favicon.png
 
@@ -17,7 +17,7 @@ disqus:
   # Leave shortname blank to disable comments site-wide.
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   # shortname: my_disqus_shortname
-  shortname: csrhymes
+  shortname: 
 
 
 plugins:
@@ -58,7 +58,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "C.S. Rhymes"
+      author: "M.B. Pereira"
       layout: post
       image: https://via.placeholder.com/1200x800
       show_sidebar: true
