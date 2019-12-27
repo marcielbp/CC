@@ -8,5 +8,3 @@ sort: title
 ---
 
 # Corpo Docente
-
-Nenhum conteúdo disponível até o momento.
