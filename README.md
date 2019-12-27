@@ -484,3 +484,5 @@ Your theme is setup just like a normal Jekyll site! To test your theme, run `bun
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
+## Font Awesome icons:
+https://fontawesome.com/icons?d=gallery&q=year&m=free
