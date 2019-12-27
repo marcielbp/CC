@@ -12,7 +12,7 @@
     - name: Notícias
       link: /blog/
 - name: Pessoas
-  link: /pessoas/
+  link: /#
   dropdown:
     - name: Coordenação
       link: /coordenacao/
@@ -28,7 +28,7 @@
   link: /discente/
 - name: Portal do Egresso
   link: /blog/
-- name: Grupos de Pesquisa
+- name: Pesquisa
   link: /grupos-pesquisa/
   dropdown:
     - name: GESID
@@ -37,5 +37,10 @@
       link: /gohan/
     - name: RACING
       link: /racing/
-- name: Notícias
-  link: /blog/
+- name: Extensão
+  link: /extensao/
+  dropdown:
+    - name: GATECH
+      link: /gatech/
+    - name: GREEN
+      link: /green/
