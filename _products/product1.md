@@ -1,23 +1,25 @@
 ---
-title: Product 1 Name
-subtitle: Product 1 tagline here
+title: Allysson Allex de Paula Araújo
+subtitle:
 description: This is a product description
-product_code: ABC124
+product_code: AAL
 layout: product
 image: https://via.placeholder.com/640x480
 price: £1.99 + VAT
 features:
-    - label: Great addition to any home
+    - label: Sistemas de Informação
       icon: fa-location-arrow
-    - label: Comes in a range of styles
+    - label: Blockchain
       icon: fa-grin-stars
-    - label: Available in multiple sizes
+    - label: Engenharia de Software
       icon: fa-fighter-jet
 rating: 3
 ---
 
-This is the content about the product.
+I am Master in Computer Science from the State University of Ceará (UECE) and Bachelor in Information Systems from the Faculdade de Juazeiro do Norte (FJN). Currently, I am professor in the BSc courses of Information Systems and Computer Science at Federal University of Ceará (UFC) - Campus Crateús, doctorate student in Management at State University of Ceará (UECE), head of the Information Systems and Digital Innovation Group (GESID) in UFC and researcher of the Optimization in Software Engineering Group of UECE (GOES.UECE). Overall, my field of study covers the intersection between Information Systems and Digital Innovation, by addressing i) the development of support decision models, cryptoassets and blockchain-based systems to managerial issues as well as ii) the evaluation of socio-technical, innovative and software engineering aspects that encompass these solutions. In particular, my research interests are focused on the following subjects and their interdisciplinarity: Blockchain, Cryptoeconomics, Business Model Innovation and Software Engineering
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent mauris lacus, semper vel massa mattis, ullamcorper auctor libero. Maecenas sit amet ultricies erat. Curabitur eleifend est eget sagittis convallis. Mauris sit amet placerat lacus. Pellentesque vehicula quis massa ac lacinia. Vivamus gravida bibendum tincidunt. Sed eget augue vitae ligula ultricies lacinia a eget augue. Donec vulputate metus ut ante scelerisque sollicitudin. Nullam commodo suscipit venenatis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut tristique pharetra mollis. 
+ORCID ID: orcid.org/0000-0003-2108-2335; 
 
-Praesent ut accumsan mauris. Maecenas tempus finibus lectus, in iaculis mauris lobortis ac. Proin ipsum erat, imperdiet at arcu a, egestas hendrerit turpis. Suspendisse in lectus lacinia, sollicitudin felis non, auctor urna. Ut lacinia, ligula a cursus fringilla, diam arcu semper orci, quis sagittis eros quam nec ante.
+Scopus ID: 56310893000;
+
+ResearcherID: Y-5188-2019.
