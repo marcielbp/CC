@@ -3,7 +3,7 @@ height: is-medium
 items:
   - title: Example callout 1
     subtitle: Example subtitle 1
-    image: img/aICONES-04.png
+    icon: fa-space-shuttle
     description: >
       The example description text goes here and can be multiple lines.
 
@@ -12,7 +12,7 @@ items:
     call_to_action_link: /page-1/
   - title: Example callout 2
     subtitle: Example subtitle 2
-    image: img/aICONES-03.png
+    icon: fa-wrench
     description: >
       The example description text goes here and can be multiple lines.
 
@@ -21,7 +21,7 @@ items:
     call_to_action_link: /page-2/
   - title: Example callout 3
     subtitle: Example subtitle 3
-    image: img/aICONES-02.png
+    icon: fab fa-github
     description: >
       The example description text goes here and can be multiple lines.
 
