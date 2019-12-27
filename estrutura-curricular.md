@@ -3,7 +3,7 @@ layout: page
 title: Estrutura Curricular
 description: Estrutura Curricular
 hide_hero: true
-show_sidebar: true
+show_sidebar: false
 ---
 
 <script src="mermaid.min.js"></script>
@@ -11,8 +11,4 @@ show_sidebar: true
 
 # Estrutura Curricular
 
-graph TD
-    B["fa:fa-twitter for peace"]
-    B-->C[fa:fa-ban forbidden]
-    B-->D(fa:fa-spinner);
-    B-->E(A fa:fa-camera-retro perhaps?);
+![img](/img/Fluxograma_CC_2018.svg)
