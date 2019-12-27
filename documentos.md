@@ -3,8 +3,7 @@ layout: page
 title: Documentos
 description: Documentos
 hide_hero: true
-show_sidebar: false
-menubar: example_menu
+show_sidebar: true
 ---
 
 # Documentos
