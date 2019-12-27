@@ -1,6 +1,6 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: Bacharelado em Ciência da Computação - UFC - Campus de Crateús
+subtitle: O Curso de Bacharelado em Ciência da Computação da UFC em Crateús tem como objetivo formar profissionais aptos a introduzir melhorias e participar efetivamente em empreendimentos de software voltados para os mercados local e global, oferecendo a base teórica suficiente para que os seus egressos possam manter-se constantemente atualizados. Além disso, é objetivo deste curso preparar profissionais para construir, usando as técnicas da Ciência da Computação, sistemas de software corretos e eficientes.
 layout: page
 callouts: home_callouts
 show_sidebar: true
