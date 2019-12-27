@@ -9,3 +9,5 @@ items:
   - title: Corpo Docente
     subtitle: Quick and easy to get started
     icon: fas fa-chalkboard-teacher
+    call_to_action_name: Call to action 1
+    call_to_action_link: /page-1/
