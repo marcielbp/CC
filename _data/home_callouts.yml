@@ -1,11 +1,11 @@
 style: is-light
 items:
-  - title: Multiple page layouts
-    subtitle: Including sidebar, menubar, tabs and callouts
-    icon: fa-copy
-  - title: Blog included
-    subtitle: Layouts for blog and post pages included
-    icon: fa-mail-bulk
-  - title: Works with GitHub Pages
+  - title: Duração
+    subtitle: 4 anos
+    icon: fas fa-graduation-cap
+  - title: Carga Horária
+    subtitle: 3280 horas
+    icon: fas fa-hourglass-half
+  - title: Corpo Docente
     subtitle: Quick and easy to get started
-    icon: fab fa-github
+    icon: fas fa-chalkboard-teacher
