@@ -15,8 +15,11 @@ show_sidebar: true
 ## Coordenador
 
 ![img](/img/1.jpeg)
+
  Prof. Rennan Ferreira Dantas
+
  [E-mail](rennan@ufc.br) - [Lattes](http://lattes.cnpq.br/0192579272041443) - [Site]()
+
  **Área de Atuação**
  - Teoria dos Grafos
  - Combinatória
@@ -24,8 +27,11 @@ show_sidebar: true
  ## Vice-Coordenadora
 
 ![img](/img/5.jpeg)
+
 Profª. Lisieux Marie Marinho dos Santos Andrade
+
 [E-mail](lisieuxandrade@ufc.br) -  [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4449134Y6) - [Site]()
+
  **Área de Atuação**
 - Matemática computacional
 - Otimização Combinatória e Metaheurísticas

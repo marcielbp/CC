@@ -16,19 +16,32 @@ O Curso de Bacharelado em Ciência da Computação da UFC em Crateús tem como o
 
 O perfil profissional do egresso o capacita a desenvolver as seguintes funções no mercado de trabalho:
 
-<i class="fas fa-users"></i>
+### Coordenador de Equipe
 
-Coordenador de Equipe
+![](img/aICONES-04.png)
+
 Coordenação de equipes envolvidas em projetos na área de computação e informática
 
-Consultor
+### Consultor
+
+![](img/aICONES-03.png)
+
 Consultoria e assessoria a empresas de diversas áreas no que tange ao uso adequado de sistemas computacionais
 
-Membro de Equipe
+### Membro de Equipe
+
+![](img/aICONES-02.png)
+
 Participação de forma colaborativa e integrada de equipes que desenvolvem projetos na área de informática
 
-Empreendedor
+### Empreendedor
+
+![](img/aICONES-01.png)
+
 Descobrimento e empreendimento de novas oportunidades para aplicações usando sistemas computacionais e avaliando a conveniência de se investir no desenvolvimento da aplicação
 
-Pesquisador
+### Pesquisador
+
+![](img/aICONES-05.png)
+
 Participação em projetos de pesquisa científica e tecnológica
