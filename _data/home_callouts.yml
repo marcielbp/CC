@@ -4,12 +4,12 @@ items:
     subtitle: 4 anos
     icon: fas fa-graduation-cap
     call_to_action_name: Ver Currículo
-    call_to_action_link: /page-1/
+    call_to_action_link: /estrutura-curricular/
   - title: Carga Horária
     subtitle: 3280 horas
     icon: fas fa-hourglass-half
     call_to_action_name: Ver distribuição carga horária
-    call_to_action_link: /page-1/
+    call_to_action_link: /estrutura-curricular/
   - title: Corpo Docente
     subtitle: 22 docentes com Doutorado ou Mestrado
     icon: fas fa-chalkboard-teacher
