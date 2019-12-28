@@ -3,7 +3,7 @@ title: Allysson Allex de Paula Araújo
 subtitle:
 description:
 product_code: AAL
-layout: product
+layout: docente
 image: https://marcielbp.github.io/CC/img/pallyson.jpeg
 features:
     - label: Sistemas de Informação
