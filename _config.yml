@@ -58,9 +58,9 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "M.B. Pereira"
+      author: "Rennan Dantas"
       layout: post
-      image: https://via.placeholder.com/1200x800
+      image: https://marcielbp.github.io/CC/img/prennan.jpg
       show_sidebar: true
 
 markdown: kramdown
@@ -69,7 +69,7 @@ highlighter: rouge
 footer_menu: example_footer_menu
 
 collections:
-  docentes:
+  products:
     output: true
     layout: product
     image: https://via.placeholder.com/800x600
