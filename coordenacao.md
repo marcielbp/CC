@@ -18,7 +18,7 @@ show_sidebar: true
 
  Prof. Rennan Ferreira Dantas
 
- [E-mail](rennan@ufc.br) - [Lattes](http://lattes.cnpq.br/0192579272041443) - [Site]()
+ E-mail: [rennan@ufc.br](mailto:rennan@ufc.br) - [Lattes](http://lattes.cnpq.br/0192579272041443) - [Site]()
 
  **Área de Atuação**
  - Teoria dos Grafos
@@ -30,7 +30,7 @@ show_sidebar: true
 
 Profª. Lisieux Marie Marinho dos Santos Andrade
 
-[E-mail](lisieuxandrade@ufc.br) -  [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4449134Y6) - [Site]()
+E-mail: [lisieuxandrade@ufc.br](mailto:lisieuxandrade@ufc.br) -  [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4449134Y6) - [Site]()
 
  **Área de Atuação**
 - Matemática computacional
