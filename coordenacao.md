@@ -24,7 +24,7 @@ show_sidebar: true
  - Teoria dos Grafos
  - Combinatória
 
- ## Vice-Coordenadora
+## Vice-Coordenadora
 
 ![img](/img/5.jpeg)
 
