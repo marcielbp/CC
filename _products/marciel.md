@@ -13,7 +13,7 @@ features:
     - label: Sistemas Embarcados
       icon: fa-microchip
     - label: Telecomunicações
-      icon: satellite-dish
+      icon: fa-satellite-dish
 rating: 5
 ---
 
