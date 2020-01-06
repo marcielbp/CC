@@ -16,7 +16,7 @@ O Curso de Bacharelado em Ciência da Computação da UFC em Crateús tem como o
   <div class="tile is-parent">
     <article class="tile is-child box">
       <p class="title">Coordenador de Equipe</p>
-      <figure class="image is-128x128">
+      <figure class="image is-1by1">
       <img src="img/aICONES-04.png">
       </figure>
       <p class="subtitle">Coordenação de equipes envolvidas em projetos na área de computação e informática	</p>
@@ -25,7 +25,7 @@ O Curso de Bacharelado em Ciência da Computação da UFC em Crateús tem como o
   <div class="tile is-parent">
     <article class="tile is-child box">
       <p class="title">Consultor</p>
-      <figure class="image is-128x128">
+      <figure class="image is-1by1">
       <img src="img/aICONES-03.png">
       </figure>
       <p class="subtitle">Consultoria e assessoria a empresas de diversas áreas no que tange ao uso adequado de sistemas computacionais	</p>
@@ -34,13 +34,33 @@ O Curso de Bacharelado em Ciência da Computação da UFC em Crateús tem como o
   <div class="tile is-parent">
     <article class="tile is-child box">
       <p class="title">Membro de Equipe</p>
-      <figure class="image is-128x128">
+      <figure class="image is-1by1">
       <img src="img/aICONES-02.png">
       </figure>
       <p class="subtitle">Participação de forma colaborativa e integrada de equipes que desenvolvem projetos na área de informática	</p>
       <div class="content">
         <p>Lorem ipsum dolor</p>
       </div>
+    </article>
+  </div>
+  </div>
+  <div class="tile is-parent">
+    <article class="tile is-child box">
+      <p class="title">Empreendedor</p>
+      <figure class="image is-1by1">
+      <img src="img/aICONES-01.png">
+      </figure>
+      <p class="subtitle">Descobrimento e empreendimento de novas oportunidades para aplicações usando sistemas computacionais e avaliando a conveniência de se investir no desenvolvimento da aplicação</p>
+    </article>
+  </div>
+  </div>
+  <div class="tile is-parent">
+    <article class="tile is-child box">
+      <p class="title">Pesquisador</p>
+      <figure class="image is-1by1">
+      <img src="img/aICONES-05.png">
+      </figure>
+      <p class="subtitle">Participação em projetos de pesquisa científica e tecnológica	</p>
     </article>
   </div>
 </div>
