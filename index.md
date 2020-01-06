@@ -23,43 +23,43 @@ O perfil profissional do egresso o capacita a desenvolver as seguintes funções
       <figure class="image is-4by3">
       <img src="img/aICONES-04.png">
       </figure>
-      <p class="subtitle.is-3">Coordenação de equipes envolvidas em projetos na área de computação e informática	</p>
+      <p class="subtitle.is-4">Coordenação de equipes envolvidas em projetos na área de computação e informática	</p>
     </article>
   </div>
   <div class="tile is-parent">
     <article class="tile is-child box">
-      <p class="title">Consultor</p>
+      <p class="title.is-3">Consultor</p>
       <figure class="image is-4by3">
       <img src="img/aICONES-03.png">
       </figure>
-      <p class="subtitle">Consultoria e assessoria a empresas de diversas áreas no que tange ao uso adequado de sistemas computacionais	</p>
+      <p class="subtitle.is-4">Consultoria e assessoria a empresas de diversas áreas no que tange ao uso adequado de sistemas computacionais	</p>
     </article>
   </div>
   <div class="tile is-parent">
     <article class="tile is-child box">
-      <p class="title">Membro de Equipe</p>
+      <p class="title.is-3">Membro de Equipe</p>
       <figure class="image is-4by3">
       <img src="img/aICONES-02.png">
       </figure>
-      <p class="subtitle">Participação de forma colaborativa e integrada de equipes que desenvolvem projetos na área de informática	</p>
+      <p class="subtitle.is-4">Participação de forma colaborativa e integrada de equipes que desenvolvem projetos na área de informática	</p>
     </article>
   </div>
   <div class="tile is-parent">
     <article class="tile is-child box">
-      <p class="title">Empreendedor</p>
-      <figure class="image is-4by3">
+      <p class="title.is-3">Empreendedor</p>
+      <figure>
       <img src="img/aICONES-01.png">
       </figure>
-      <p class="subtitle">Descobrimento e empreendimento de novas oportunidades para aplicações usando sistemas computacionais e avaliando a conveniência de se investir no desenvolvimento da aplicação</p>
+      <p class="subtitle.is-4">Descobrimento e empreendimento de novas oportunidades para aplicações usando sistemas computacionais e avaliando a conveniência de se investir no desenvolvimento da aplicação</p>
     </article>
   </div>
   <div class="tile is-parent">
     <article class="tile is-child box">
-      <p class="title">Pesquisador</p>
-      <figure class="image is-4by3">
+      <p class="title.is-3">Pesquisador</p>
+      <figure>
       <img src="img/aICONES-05.png">
       </figure>
-      <p class="subtitle">Participação em projetos de pesquisa científica e tecnológica	</p>
+      <p class="subtitle.is-4">Participação em projetos de pesquisa científica e tecnológica	</p>
     </article>
   </div>
 </div>
