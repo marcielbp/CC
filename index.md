@@ -47,7 +47,6 @@ O perfil profissional do egresso o capacita a desenvolver as seguintes funções
       </div>
     </article>
   </div>
-  </div>
   <div class="tile is-parent">
     <article class="tile is-child box">
       <p class="title">Empreendedor</p>
@@ -56,7 +55,6 @@ O perfil profissional do egresso o capacita a desenvolver as seguintes funções
       </figure>
       <p class="subtitle">Descobrimento e empreendimento de novas oportunidades para aplicações usando sistemas computacionais e avaliando a conveniência de se investir no desenvolvimento da aplicação</p>
     </article>
-  </div>
   </div>
   <div class="tile is-parent">
     <article class="tile is-child box">
