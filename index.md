@@ -20,7 +20,7 @@ O perfil profissional do egresso o capacita a desenvolver as seguintes funções
   <div class="tile is-parent">
     <article class="tile is-child box">
       <p class="title.is-3">Coordenador de Equipe</p>
-      <figure class="image is-4by3">
+      <figure>
       <img src="img/aICONES-04.png">
       </figure>
       <p class="subtitle.is-4">Coordenação de equipes envolvidas em projetos na área de computação e informática	</p>
@@ -29,7 +29,7 @@ O perfil profissional do egresso o capacita a desenvolver as seguintes funções
   <div class="tile is-parent">
     <article class="tile is-child box">
       <p class="title.is-3">Consultor</p>
-      <figure class="image is-4by3">
+      <figure>
       <img src="img/aICONES-03.png">
       </figure>
       <p class="subtitle.is-4">Consultoria e assessoria a empresas de diversas áreas no que tange ao uso adequado de sistemas computacionais	</p>
@@ -38,7 +38,7 @@ O perfil profissional do egresso o capacita a desenvolver as seguintes funções
   <div class="tile is-parent">
     <article class="tile is-child box">
       <p class="title.is-3">Membro de Equipe</p>
-      <figure class="image is-4by3">
+      <figure>
       <img src="img/aICONES-02.png">
       </figure>
       <p class="subtitle.is-4">Participação de forma colaborativa e integrada de equipes que desenvolvem projetos na área de informática	</p>
