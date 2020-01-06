@@ -2,6 +2,7 @@
 
 Template baseado em [Bulma](https://github.com/chrisrhymes/bulma-clean-theme)
 
+[Bulma Clean Theme](https://github.com/chrisrhymes/bulma-clean-theme)
 
 
 ## Font Awesome icons:
