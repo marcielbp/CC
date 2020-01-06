@@ -7,7 +7,7 @@ items:
     description: |-
       Coordenação de equipes envolvidas em projetos na área de computação e informática
     image: /img/aICONES-04.png
-    image_ratio: is-4by3
+    image_ratio: is-128x128
     link: #
     link_text: #View the CS Rhymes Website
     tags: #Bulma,CSS,Jekyll
@@ -21,7 +21,7 @@ items:
       - Page With Sidebar
       - Page With Menubar
     image: /img/aICONES-03.png
-    image_ratio: is-4by3
+    image_ratio: is-128x128
     link: #
     link_text: #View Theme
     tags: #Jekyll,Bulma,CSS
