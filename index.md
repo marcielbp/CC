@@ -42,9 +42,6 @@ O perfil profissional do egresso o capacita a desenvolver as seguintes funções
       <img src="img/aICONES-02.png">
       </figure>
       <p class="subtitle">Participação de forma colaborativa e integrada de equipes que desenvolvem projetos na área de informática	</p>
-      <div class="content">
-        <p>Lorem ipsum dolor</p>
-      </div>
     </article>
   </div>
   <div class="tile is-parent">
