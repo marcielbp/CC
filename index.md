@@ -19,11 +19,11 @@ O perfil profissional do egresso o capacita a desenvolver as seguintes funções
 <div class="tile is-ancestor">
   <div class="tile is-parent">
     <article class="tile is-child box">
-      <p class="title">Coordenador de Equipe</p>
+      <p class="title.is-3">Coordenador de Equipe</p>
       <figure class="image is-4by3">
       <img src="img/aICONES-04.png">
       </figure>
-      <p class="subtitle">Coordenação de equipes envolvidas em projetos na área de computação e informática	</p>
+      <p class="subtitle.is-3">Coordenação de equipes envolvidas em projetos na área de computação e informática	</p>
     </article>
   </div>
   <div class="tile is-parent">
