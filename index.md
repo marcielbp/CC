@@ -12,6 +12,10 @@ hero_height: is-fullheight
 <!-- ![image](img/IMG_1391.JPG) -->
 O Curso de Bacharelado em Ciência da Computação da UFC em Crateús tem como objetivo formar profissionais aptos a introduzir melhorias e participar efetivamente em empreendimentos de software voltados para os mercados local e global, oferecendo a base teórica suficiente para que os seus egressos possam manter-se constantemente atualizados. Além disso, é objetivo deste curso preparar profissionais para construir, usando as técnicas da Ciência da Computação, sistemas de software corretos e eficientes.
 
+## Áreas de Atuação
+
+O perfil profissional do egresso o capacita a desenvolver as seguintes funções no mercado de trabalho:
+
 <div class="tile is-ancestor">
   <div class="tile is-parent">
     <article class="tile is-child box">
@@ -66,9 +70,7 @@ O Curso de Bacharelado em Ciência da Computação da UFC em Crateús tem como o
 </div>
 
 
-## Áreas de Atuação
 
-O perfil profissional do egresso o capacita a desenvolver as seguintes funções no mercado de trabalho:
 
 | Coordenador de Equipe | Consultor | Membro de Equipe | Empreendedor | Pesquisador |
 | :-: | :-: | :-: | :-: | :-: |
