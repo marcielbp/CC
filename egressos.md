@@ -16,7 +16,7 @@ show_sidebar: true
       <figure class="image is-128x128">
       <img class="is-rounded" class="is-rounded" src="https://marcielbp.github.io/CC/img/eJoaoPaulo.jpg">
       </figure>
-      <p class="subtitle.is-4">	</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.</p>
     </article>
   </div>
   <div class="tile is-parent">
@@ -39,7 +39,7 @@ show_sidebar: true
       <figure class="image is-128x128">
       <img class="is-rounded" src="https://marcielbp.github.io/CC/img/eFcoAnt.jpg">
       </figure>
-      <p class="subtitle.is-4">	</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.</p>
     </article>
   </div>
   <div class="tile is-parent">
@@ -48,7 +48,7 @@ show_sidebar: true
       <figure class="image is-128x128">
       <img class="is-rounded" src="https://marcielbp.github.io/CC/img/eFcoUalison.jpg">
       </figure>
-      <p class="subtitle.is-4"></p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.</p>
     </article>
   </div>
 </div>
