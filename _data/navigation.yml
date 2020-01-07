@@ -16,14 +16,16 @@
   dropdown:
     - name: Coordenação
       link: /coordenacao/
-    - name: Docentes
-      link: /corpo-docente/
     - name: Colegiado
       link: /colegiado/
     - name: Núcleo Docente Estruturante
       link: /nde/
+    - name: Professores
+      link: /corpo-docente/
     - name: Secretaria Acadêmica
       link: /secretaria/
+    - name: Egressos
+      link: /egressos/
 - name: Área do Discente
   link: /discente/
 - name: Portal do Egresso
