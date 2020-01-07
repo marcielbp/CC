@@ -12,7 +12,7 @@ show_sidebar: true
   <div class="tile is-parent">
     <article class="tile is-child box">
       <p class="title.is-3">João Paulo de Araújo
- (<a href="http://lattes.cnpq.br/7155608920295858">Lattes</a> - <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-ara%C3%BAjo-99348089/""><i class="fab fa-linkedin"></i></a>)</p>
+ (<a href="http://lattes.cnpq.br/7155608920295858">Lattes</a> - <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-ara%C3%BAjo-99348089/"><i class="fab fa-linkedin"></i></a>)</p>
       <figure class="image is-128x128">
       <img class="is-rounded" src="img/eJoaoPaulo.jpg">
       </figure>
@@ -21,7 +21,7 @@ show_sidebar: true
   </div>
   <div class="tile is-parent">
     <article class="tile is-child box">
-      <p class="title.is-3">Marcus Vinicius Martins Melo (<a href="http://lattes.cnpq.br/6091624045920112">Lattes</a> - <a href="https://www.linkedin.com/in/vininjr/""><i class="fab fa-linkedin"></i></a>) </p>
+      <p class="title.is-3">Marcus Vinicius Martins Melo (<a href="http://lattes.cnpq.br/6091624045920112">Lattes</a> - <a href="https://www.linkedin.com/in/vininjr/"><i class="fab fa-linkedin"></i></a>) </p>
       <figure class="image is-128x128">
       <img src="img/eMarcus.jpg">
       </figure>
@@ -44,7 +44,7 @@ show_sidebar: true
   </div>
   <div class="tile is-parent">
     <article class="tile is-child box">
-      <p class="title.is-3">Francisco Uálison Rodrigues de Lima (<a href="http://lattes.cnpq.br/2619316968308833">Lattes</a> - <a href="https://www.linkedin.com/in/ualisonrodrigues/""><i class="fab fa-linkedin"></i></a>) </p>
+      <p class="title.is-3">Francisco Uálison Rodrigues de Lima (<a href="http://lattes.cnpq.br/2619316968308833">Lattes</a> - <a href="https://www.linkedin.com/in/ualisonrodrigues/"><i class="fab fa-linkedin"></i></a>) </p>
       <figure class="image is-128x128">
       <img src="img/egressos/eFcoUalison.jpg">
       </figure>
