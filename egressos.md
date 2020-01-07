@@ -46,7 +46,7 @@ show_sidebar: true
     <article class="tile is-child box">
       <p class="title.is-3">Francisco Uálison Rodrigues de Lima (<a href="http://lattes.cnpq.br/2619316968308833">Lattes</a> - <a href="https://www.linkedin.com/in/ualisonrodrigues/""><i class="fab fa-linkedin"></i></a>) </p>
       <figure class="image is-128x128">
-      <img src="img/eFcoUalison.jpg">
+      <img src="img/egressos/eFcoUalison.jpg">
       </figure>
       <p class="subtitle.is-4"></p>
     </article>
