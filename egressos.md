@@ -14,7 +14,7 @@ show_sidebar: true
       <p class="title.is-3">João Paulo de Araújo
  (<a href="http://lattes.cnpq.br/7155608920295858">Lattes</a> - <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-ara%C3%BAjo-99348089/"><i class="fab fa-linkedin"></i></a>)</p>
       <figure class="image is-128x128">
-      <img class="is-rounded" src="https://marcielbp.github.io/CC/img/eJoaoPaulo.jpg">
+      <img class="is-rounded" class="is-rounded" src="https://marcielbp.github.io/CC/img/eJoaoPaulo.jpg">
       </figure>
       <p class="subtitle.is-4">	</p>
     </article>
@@ -23,7 +23,7 @@ show_sidebar: true
     <article class="tile is-child box">
       <p class="title.is-3">Marcus Vinicius Martins Melo (<a href="http://lattes.cnpq.br/6091624045920112">Lattes</a> - <a href="https://www.linkedin.com/in/vininjr/"><i class="fab fa-linkedin"></i></a>) </p>
       <figure class="image is-128x128">
-      <img src="https://marcielbp.github.io/CC/img/eMarcus.jpg">
+      <img class="is-rounded" src="https://marcielbp.github.io/CC/img/eMarcus.jpg">
       </figure>
       <p class="subtitle.is-4"></p>
     </article>
@@ -46,7 +46,7 @@ show_sidebar: true
     <article class="tile is-child box">
       <p class="title.is-3">Francisco Uálison Rodrigues de Lima (<a href="http://lattes.cnpq.br/2619316968308833">Lattes</a> - <a href="https://www.linkedin.com/in/ualisonrodrigues/"><i class="fab fa-linkedin"></i></a>) </p>
       <figure class="image is-128x128">
-      <img src="https://marcielbp.github.io/CC/img/eFcoUalison.jpg">
+      <img class="is-rounded" src="https://marcielbp.github.io/CC/img/eFcoUalison.jpg">
       </figure>
       <p class="subtitle.is-4"></p>
     </article>
