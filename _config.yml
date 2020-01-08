@@ -25,7 +25,7 @@ plugins:
   - jekyll-paginate
   - jekyll-feed
   - jekyll-seo-tag
-  - kramdown
+  - remark
   - rouge
 
 exclude:
@@ -63,7 +63,7 @@ defaults:
       image: https://marcielbp.github.io/CC/img/prennan.jpg
       show_sidebar: true
 
-markdown: kramdown
+markdown: remark
 highlighter: rouge
 
 footer_menu: example_footer_menu
