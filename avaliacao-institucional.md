@@ -8,7 +8,8 @@ show_sidebar: true
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
-<script src="node_modules/angular-chart/angular-chart.min.js"></script>
+<script src="https://raw.githubusercontent.com/jtblin/angular-chart.js/master/dist/angular-chart.min.js"></script>
+<script src="https://raw.githubusercontent.com/jtblin/angular-chart.js/master/dist/angular-chart.js"></script>
 
 Nenhum conteúdo disponível até o momento.
 console.log('inline code');
