@@ -28,6 +28,9 @@
       link: /egressos/
 - name: Área do Discente
   link: /discente/
+  dropdown:
+    - name: Avaliação Institucional
+      link: /avaliacao-institucional/
 - name: Portal do Egresso
   link: /blog/
 - name: Pesquisa
