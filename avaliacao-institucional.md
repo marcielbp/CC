@@ -89,6 +89,8 @@ state DIREÇÃO {
 
 Criado com [Chart.js](https://www.chartjs.org/).
 
+https://codepen.io/timbergus/pen/EaLRWO
+
 <script>
 var data = {
     labels: ['2015-1', '2015-2', '2016-1', '2016-2', '2017-1', '2017-2', '2018-1', '2018-2'],
