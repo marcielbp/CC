@@ -90,51 +90,45 @@ state DIREÇÃO {
 Criado com [Chart.js](https://www.chartjs.org/).
 
 <script>
-var ctx = document.getElementById('myChart').getContext('2d');
-
-var myLineChart = new Chart(ctx, {
-    type: 'line',
-    data: {
-        labels: ['2015-1', '2015-2', '2016-1', '2016-2', '2017-1', '2017-2', '2018-1', '2018-2'],
-        datasets: [{
-            label: 'A Coordenação do curso é acessível aos alunos?',
-            data: [96.43, 91.43, 93.02, 97.06, NaN, 98.46, NaN, 100.00],
-            backgroundColor: window.chartColors.red,
-  					borderColor: window.chartColors.red,
-            borderWidth: 1
+var data = {
+    labels: ['2015-1', '2015-2', '2016-1', '2016-2', '2017-1', '2017-2', '2018-1', '2018-2'],
+    datasets: [
+        {
+            label: "Q1",
+            fillColor: "rgba(220,220,220,0)",
+            strokeColor: "#abc",
+            pointColor: "#abc",
+            pointColor: "#9ab",
+            fill: false,
+            data: [96.43, 91.43, 93.02, 97.06, 97.06, 98.46, 98.46, 100.00],
         }]
-    },
-    options: {
-    				responsive: true,
-    				title: {
-    					display: true,
-    					text: 'Chart.js Line Chart'
-    				},
-    				tooltips: {
-    					mode: 'index',
-    					intersect: false,
-    				},
-    				hover: {
-    					mode: 'nearest',
-    					intersect: true
-    				},
-    				scales: {
-    					x: {
-    						display: true,
-    						scaleLabel: {
-    							display: true,
-    							labelString: 'Semestre'
-    						}
-    					},
-    					y: {
-    						display: true,
-    						scaleLabel: {
-    							display: true,
-    							labelString: 'Value'
-    						}
-    					}
-    				}
-    			}
+};
+
+var ctx = document.getElementById("myChart").getContext("2d");
+var myBarChart = new Chart(ctx).Line(data, {
+    //Boolean - Whether the scale should start at zero, or an order of magnitude down from the lowest value
+    scaleBeginAtZero : true,
+    //Boolean - Whether grid lines are shown across the chart
+    scaleShowGridLines : true,
+    //String - Colour of the grid lines
+    scaleGridLineColor : "rgba(0, 0, 0, .25)",
+    //Number - Width of the grid lines
+    scaleGridLineWidth : 1,
+    //Boolean - Whether to show horizontal lines (except X axis)
+    scaleShowHorizontalLines: true,
+
+    //Boolean - Whether to show vertical lines (except Y axis)
+    scaleShowVerticalLines: true,
+
+    //Boolean - If there is a stroke on each bar
+    lineShowStroke : true,
+
+    //Number - Pixel width of the bar stroke
+    lineStrokeWidth : 4,
+
+    //String - A legend template
+    legendTemplate : "<ul class=\"<%=name.toLowerCase()%>-legend\"><% for (var i=0; i<datasets.length; i++){%><li><span style=\"background-color:<%=datasets[i].fillColor%>\"></span><%if(datasets[i].label){%><%=datasets[i].label%><%}%></li><%}%></ul>"
+
 });
 
 </script>
