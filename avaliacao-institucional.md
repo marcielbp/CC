@@ -98,7 +98,7 @@ var myLineChart = new Chart(ctx, {
         labels: ['2015-1', '2015-2', '2016-1', '2016-2', '2017-1', '2017-2', '2018-1, '2018-2'],
         datasets: [{
             label: 'A Coordenação do curso é acessível aos alunos?',
-            data: [96.43, 91.43, 93.02, 97.06, NaN, 98.46, NaN, 100.00],
+            data: [96.43, 91.43, 93.02, 97.06, 0, 98.46, 0, 100.00],
             backgroundColor: window.chartColors.red,
   					borderColor: window.chartColors.red,
             borderWidth: 1
