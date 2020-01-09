@@ -5,6 +5,8 @@ description: Avaliação Institucional
 hide_hero: true
 show_sidebar: true
 ---
+
+
 <script src="https://cdn.jsdelivr.net/npm/mermaid@8.4.0/dist/mermaid.min.js"></script>
 <script>mermaid.initialize({  startOnLoad:true,  theme: 'neutral' });</script>
 
@@ -38,6 +40,20 @@ gantt
     section STI
         Compilação dos resultados :done, d1, 12-2019, 60d
 </div>
+
+# Avaliação Instituicional da COORDENAÇÃO
+
+1. A Coordenação do curso é acessível aos alunos.
+1. A Coordenação do curso orienta os alunos (na matrícula, no aproveitamento de créditos, em atividades complementares, etc.), auxiliando-os quando necessário.
+1. A Coordenação promove a divulgação do Projeto Pedagógico do Curso.
+1. A Coordenação do curso estimula os alunos a participar dos encontros universitários da UFC ou de outros eventos acadêmicos (congressos científicos, reuniões tecnológicas, atividades esportivas, extensionistas e/ou artísticas, etc).
+1. A Coordenação do curso esclarece os alunos sobre a importância em participar do Exame Nacional de Desempenho de Estudantes (ENADE).
+1. A Coodenação do curso promove momentos de diálogos com os alunos sobre os resultados do ENADE.
+1. A Coordenação do curso promove momentos de diálogos com os alunos sobre a formação acadêmica, curriculo e mercado de trabalho.
+1. A Coordenação do curso incentiva os alunos a avaliarem os professores e as disciplinas (ou módulos).
+1. A Coordenação do curso acompanha a execução e monitora a qualidade dos estágios.
+1. O meu nível de satisfação com a coordenação do curso é muito elevado.
+
 
 
 <div class="mermaid">
@@ -75,40 +91,50 @@ Criado com [Chart.js](https://www.chartjs.org/).
 
 <script>
 var ctx = document.getElementById('myChart').getContext('2d');
-var myChart = new Chart(ctx, {
-    type: 'bar',
+
+var myLineChart = new Chart(ctx, {
+    type: 'line',
     data: {
-        labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
+        labels: ['2015-1', '2015-2', '2016-1', '2016-2', '2017-1', '2017-2', '2018-1, '2018-2'],
         datasets: [{
-            label: '# of Votes',
-            data: [12, 19, 3, 5, 2, 3],
-            backgroundColor: [
-                'rgba(255, 99, 132, 0.2)',
-                'rgba(54, 162, 235, 0.2)',
-                'rgba(255, 206, 86, 0.2)',
-                'rgba(75, 192, 192, 0.2)',
-                'rgba(153, 102, 255, 0.2)',
-                'rgba(255, 159, 64, 0.2)'
-            ],
-            borderColor: [
-                'rgba(255, 99, 132, 1)',
-                'rgba(54, 162, 235, 1)',
-                'rgba(255, 206, 86, 1)',
-                'rgba(75, 192, 192, 1)',
-                'rgba(153, 102, 255, 1)',
-                'rgba(255, 159, 64, 1)'
-            ],
+            label: 'A Coordenação do curso é acessível aos alunos?',
+            data: [96.43, 91.43, 93.02, 97.06, NaN, 98.46, NaN, 100.00],
+            backgroundColor: window.chartColors.red,
+  					borderColor: window.chartColors.red,
             borderWidth: 1
         }]
     },
     options: {
-        scales: {
-            yAxes: [{
-                ticks: {
-                    beginAtZero: true
-                }
-            }]
-        }
-    }
+    				responsive: true,
+    				title: {
+    					display: true,
+    					text: 'Chart.js Line Chart'
+    				},
+    				tooltips: {
+    					mode: 'index',
+    					intersect: false,
+    				},
+    				hover: {
+    					mode: 'nearest',
+    					intersect: true
+    				},
+    				scales: {
+    					x: {
+    						display: true,
+    						scaleLabel: {
+    							display: true,
+    							labelString: 'Semestre'
+    						}
+    					},
+    					y: {
+    						display: true,
+    						scaleLabel: {
+    							display: true,
+    							labelString: 'Value'
+    						}
+    					}
+    				}
+    			}
 });
+
 </script>
