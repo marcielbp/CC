@@ -115,7 +115,21 @@ var myLineChart = new Chart(ctx, {
             label: 'Q3',
             data: [76.78, 77.14, 86.05, 88.24, 88.24, 90.77, 90.77, 97.14],
             borderWidth: 2,
+            borderColor: 'orange',
+            fill: false
+          },
+          {
+            label: 'Q4',
+            data: [67.86, 77.14, 81.40, 100.00, 100.00, 95.38, 95.38, 97.14],
+            borderWidth: 2,
             borderColor: 'blue',
+            fill: false
+          },
+          {
+            label: 'Q5',
+            data: [46.43, 48.57, 65.85, 75.86, 75.86, 88.24, 88.24, 84.49],
+            borderWidth: 2,
+            borderColor: 'yellow',
             fill: false
           }
         ]
