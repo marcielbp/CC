@@ -106,7 +106,7 @@ var myLineChart = new Chart(ctx, {
             data: [92.86, 85.72, 93.02, 91.18, 91.18, 98.46, 98.46, 97.14],
             borderWidth: 2
           }
-        }]
+        ]
     },
     options: {
     				responsive: true,
