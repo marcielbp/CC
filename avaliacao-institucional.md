@@ -99,7 +99,13 @@ var myLineChart = new Chart(ctx, {
         datasets: [{
             label: 'A Coordenação do curso é acessível aos alunos?',
             data: [96.43, 91.43, 93.02, 97.06, 97.06, 98.46, 98.46, 100.00],
-            borderWidth: 1
+            borderWidth: 2
+          },
+          {
+            labels: 'A Coordenação do curso orienta os alunos (na matrícula, no aproveitamento de créditos, em atividades complementares, etc.), auxiliando-os quando necessário',
+            data: [92.86, 85.72, 93.02, 91.18, 91.18, 98.46, 98.46, 97.14],
+            borderWidth: 2
+          }
         }]
     },
     options: {
