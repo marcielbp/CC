@@ -3,7 +3,7 @@ layout: page
 title: Avaliação Institucional
 description: Avaliação Institucional
 hide_hero: true
-show_sidebar: true
+show_sidebar: false
 ---
 
 
@@ -100,14 +100,15 @@ var myLineChart = new Chart(ctx, {
             label: 'Q1',
             data: [96.43, 91.43, 93.02, 97.06, 97.06, 98.46, 98.46, 100.00],
             borderWidth: 2,
+            cubicInterpolationMode: 'monotone',
             borderColor: 'red',
             fill: false
-
           },
           {
             label: 'Q2',
             data: [92.86, 85.72, 93.02, 91.18, 91.18, 98.46, 98.46, 97.14],
             borderWidth: 2,
+            cubicInterpolationMode: 'monotone',
             borderColor: 'green',
             fill: false
           },
@@ -115,6 +116,7 @@ var myLineChart = new Chart(ctx, {
             label: 'Q3',
             data: [76.78, 77.14, 86.05, 88.24, 88.24, 90.77, 90.77, 97.14],
             borderWidth: 2,
+            cubicInterpolationMode: 'monotone',
             borderColor: 'orange',
             fill: false
           },
@@ -122,6 +124,7 @@ var myLineChart = new Chart(ctx, {
             label: 'Q4',
             data: [67.86, 77.14, 81.40, 100.00, 100.00, 95.38, 95.38, 97.14],
             borderWidth: 2,
+            cubicInterpolationMode: 'monotone',
             borderColor: 'blue',
             fill: false
           },
@@ -129,6 +132,7 @@ var myLineChart = new Chart(ctx, {
             label: 'Q5',
             data: [46.43, 48.57, 65.85, 75.86, 75.86, 88.24, 88.24, 84.49],
             borderWidth: 2,
+            cubicInterpolationMode: 'monotone',
             borderColor: 'yellow',
             fill: false
           }
