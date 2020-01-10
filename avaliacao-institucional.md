@@ -99,12 +99,24 @@ var myLineChart = new Chart(ctx, {
         datasets: [{
             label: 'A Coordenação do curso é acessível aos alunos?',
             data: [96.43, 91.43, 93.02, 97.06, 97.06, 98.46, 98.46, 100.00],
-            borderWidth: 2
+            borderWidth: 2,
+            borderColor: 'red',
+            fill: false
+
           },
           {
-            labels: 'A Coordenação do curso orienta os alunos (na matrícula, no aproveitamento de créditos, em atividades complementares, etc.), auxiliando-os quando necessário',
+            label: 'A Coordenação do curso orienta os alunos (na matrícula, no aproveitamento de créditos, em atividades complementares, etc.), auxiliando-os quando necessário',
             data: [92.86, 85.72, 93.02, 91.18, 91.18, 98.46, 98.46, 97.14],
-            borderWidth: 2
+            borderWidth: 2,
+            borderColor: 'green',
+            fill: false
+          },
+          {
+            label: 'A Coordenação promove a divulgação do Projeto Pedagógico do Curso.',
+            data: [76.78, 77.14, 86.05, 88.24, 88.24, 90.77, 90.77, 97.14],
+            borderWidth: 2,
+            borderColor: 'blue',
+            fill: false
           }
         ]
     },
@@ -112,7 +124,7 @@ var myLineChart = new Chart(ctx, {
     				responsive: true,
     				title: {
     					display: true,
-    					text: 'Chart.js Line Chart'
+    					text: 'Evolução da Avaliação da coordenação'
     				},
     				tooltips: {
     					mode: 'index',
@@ -135,7 +147,13 @@ var myLineChart = new Chart(ctx, {
     						scaleLabel: {
     							display: true,
     							labelString: 'Value'
-    						}
+    						},
+                ticks: {
+                  beginAtZero: true,
+                  steps: 10,
+                  stepValue: 5,
+                  max: 100
+                }
     					}
     				}
     			}
