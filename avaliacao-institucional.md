@@ -97,7 +97,7 @@ var myLineChart = new Chart(ctx, {
     data: {
         labels: ['2015-1', '2015-2', '2016-1', '2016-2', '2017-1', '2017-2', '2018-1', '2018-2'],
         datasets: [{
-            label: 'A Coordenação do curso é acessível aos alunos?',
+            label: 'Q1',
             data: [96.43, 91.43, 93.02, 97.06, 97.06, 98.46, 98.46, 100.00],
             borderWidth: 2,
             borderColor: 'red',
@@ -105,14 +105,14 @@ var myLineChart = new Chart(ctx, {
 
           },
           {
-            label: 'A Coordenação do curso orienta os alunos (na matrícula, no aproveitamento de créditos, em atividades complementares, etc.), auxiliando-os quando necessário',
+            label: 'Q2',
             data: [92.86, 85.72, 93.02, 91.18, 91.18, 98.46, 98.46, 97.14],
             borderWidth: 2,
             borderColor: 'green',
             fill: false
           },
           {
-            label: 'A Coordenação promove a divulgação do Projeto Pedagógico do Curso.',
+            label: 'Q3',
             data: [76.78, 77.14, 86.05, 88.24, 88.24, 90.77, 90.77, 97.14],
             borderWidth: 2,
             borderColor: 'blue',
@@ -151,7 +151,8 @@ var myLineChart = new Chart(ctx, {
                 ticks: {
                   beginAtZero: true,
                   steps: 10,
-                  stepValue: 5,
+                  stepValue: 10,
+                  min: 0,
                   max: 100
                 }
     					}
