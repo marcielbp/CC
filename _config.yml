@@ -60,7 +60,7 @@ defaults:
     values:
       author: "Rennan Dantas"
       layout: post
-      image: {{ site.baseurl }}/img/prennan.jpg
+      image: /img/prennan.jpg
       show_sidebar: true
 
 markdown: kramdown
