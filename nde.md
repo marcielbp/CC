@@ -22,7 +22,7 @@ Nenhum conteúdo disponível até o momento.
   {% for docente in sorted_docentes %}
 
   <div class="column is-4-desktop is-6-tablet">
-  {% if docente.product_code == LMSA %}
+  {% if docente.product_code = LMSA %}
     <a href="{{ docente.url | prepend: site.baseurl }}">
 
       <div class="card">
