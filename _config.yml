@@ -4,8 +4,8 @@ tagline: Ciência da Computação - UFC Crateús
 email: computacao@crateus.ufc.br
 description: >
   Bacharelado em Ciência da Computação - UFC - Campus Crateús
-baseurl: "https:/marcielbp.github.io/CC/"
-url: "/"
+baseurl: "https:/marcielbp.github.io/CC"
+url: "/CC"
 permalink: pretty
 favicon: "/img/favicon.png"
 
