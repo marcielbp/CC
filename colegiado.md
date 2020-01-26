@@ -3,7 +3,7 @@ layout: page
 title: Colegiado de Curso
 description: Colegiado de Curso
 hide_hero: true
-show_sidebar: true
+show_sidebar: false
 ---
 
 # Colegiado de Curso

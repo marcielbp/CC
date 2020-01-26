@@ -3,9 +3,48 @@ layout: page
 title: Núcleo Docente Estruturante
 description: Núcleo Docente Estruturante
 hide_hero: true
-show_sidebar: true
+show_sidebar: false
 ---
 
 # Núcleo Docente Estruturante
 
 Nenhum conteúdo disponível até o momento.
+
+
+<div class="columns is-multiline">
+
+  <div class="column is-12">
+    {{ page.content }}
+  </div>
+
+  {% assign sorted_docentes = site.docentes | sort:page.sort %}
+
+  {% for docente in sorted_docentes %}
+
+  <div class="column is-4-desktop is-6-tablet">
+  {% if docente.product_code == LMSA %}
+    <a href="{{ docente.url | prepend: site.baseurl }}">
+
+      <div class="card">
+
+        {% if docente.image %}
+        <div class="card-image">
+          <figure class="image is-4by3">
+            <img src="{{ docente.image }}" alt="{{ docente.title }}" />
+          </figure>
+        </div>
+        {% endif %}
+        <div class="card-content">
+
+          <p class="title is-4">{{ docente.title }}</h2>
+          <p class="subtitle is-4">{{ docente.subtitle }}</p>
+          <p class="title is-5 has-text-right">{{ docente.price }}</p>
+
+        </div>
+      </div>
+
+    </a>
+  {% endif% }
+  </div>
+{% endfor %}
+</div>
