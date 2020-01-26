@@ -22,29 +22,28 @@ Nenhum conteúdo disponível até o momento.
   {% for docente in sorted_docentes %}
 
   <div class="column is-4-desktop is-6-tablet">
-  {% if docente.product_code = LMSA %}
-    <a href="{{ docente.url | prepend: site.baseurl }}">
+    {% if docente.product_code == LMSA %}
+      <a href="{{ docente.url | prepend: site.baseurl }}">
 
       <div class="card">
 
-        {% if docente.image %}
+      {% if docente.image %}
         <div class="card-image">
-          <figure class="image is-4by3">
-            <img src="{{ docente.image }}" alt="{{ docente.title }}" />
-          </figure>
+        <figure class="image is-4by3">
+          <img src="{{ docente.image }}" alt="{{ docente.title }}" />
+        </figure>
         </div>
-        {% endif %}
-        <div class="card-content">
+      {% endif %}
+      <div class="card-content">
 
-          <p class="title is-4">{{ docente.title }}</h2>
-          <p class="subtitle is-4">{{ docente.subtitle }}</p>
-          <p class="title is-5 has-text-right">{{ docente.price }}</p>
+      <p class="title is-4">{{ docente.title }}</h2>
+      <p class="subtitle is-4">{{ docente.subtitle }}</p>
+      <p class="title is-5 has-text-right">{{ docente.price }}</p>
 
-        </div>
       </div>
-
-    </a>
-  {% endif% }
+      </div>
+      </a>
+    {% endif %}
   </div>
-{% endfor %}
+  {% endfor %}
 </div>
