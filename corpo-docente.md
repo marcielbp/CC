@@ -1,5 +1,5 @@
 ---
-layout: product-category
+layout: docente-category
 title: Corpo Docente
 description: Corpo Docente
 hide_hero: true

@@ -1,8 +1,8 @@
 ---
 title: Allysson Allex de Paula Araújo
-subtitle:
+subtitle: Blockchain, Cryptoeconomics, Business Model Innovation and Software Engineering
 description:
-product_code: AAL
+product_code: AAPL
 layout: product
 image: https://marcielbp.github.io/CC/img/pallyson.jpeg
 features:
