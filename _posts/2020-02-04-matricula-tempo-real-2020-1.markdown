@@ -7,8 +7,6 @@ description: "Matrícula em Tempo Real - 2020.1"
 published: true
 ---
 
-## Matrícula em Tempo Real - 17/02 e 18/02
-
 Boa tarde, pessoal. Após a última fase de matrículas, ainda restam vagas nas seguintes disciplinas:
 
 - Compiladores
@@ -25,7 +23,7 @@ Boa tarde, pessoal. Após a última fase de matrículas, ainda restam vagas nas 
 - Sistemas Operacionais - Turma 02A
 - Trabalho Cooperativo Baseado em Computadores
 
-Nos dias 17/02 e 18/02, ocorrerá a [Matrícula em Tempo Real](http://www.guiadoestudante.ufc.br/base-de-informacoes/matricula-em-tempo-real). Na oportunidade, vocês poderão incluir disciplinas e em tempo real terão a resposta se a solicitação foi deferida ou indeferida.
+Nos dias **17/02** e **18/02**, ocorrerá a [Matrícula em Tempo Real](http://www.guiadoestudante.ufc.br/base-de-informacoes/matricula-em-tempo-real). Na oportunidade, vocês poderão incluir disciplinas e em tempo real terão a resposta se a solicitação foi deferida ou indeferida.
 
 Quanto mais cedo vocês fizerem a solicitação, mais chances têm de conseguir a vaga pretendida.
 

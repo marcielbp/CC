@@ -1,7 +1,7 @@
 ---
 title: Bacharelado em Ciência da Computação
 subtitle: UFC - Campus de Crateús
-layout: page
+layout: home
 callouts: home_callouts
 show_sidebar: false
 hero_image: img/IMG_1391.JPG
