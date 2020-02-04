@@ -11,4 +11,6 @@ show_sidebar: false
 
 # Estrutura Curricular
 
-![img](/img/Fluxograma_CC_2018.svg)
+[Veja aqui](https://si3.ufc.br/sigaa/public/curso/curriculo.jsf?lc=pt_BR&id=1878933) a estrutura curricular do curso de Ciencia da Computação. Atualmente, o currículo vigente é o 2019.1, cujo fluxograma é mostrado a seguir:
+
+![img](/img/Fluxograma_CC_2019.svg)
