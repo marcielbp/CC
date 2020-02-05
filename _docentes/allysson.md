@@ -4,7 +4,7 @@ subtitle: Blockchain, Cryptoeconomics, Business Model Innovation and Software En
 description:
 product_code: AAPL
 layout: product
-image: /img/pallyson.jpeg
+image: https://marcielbp.github.io/CC/img/pallyson.jpeg
 features:
     - label: Sistemas de Informação
       icon: fa-location-arrow

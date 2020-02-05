@@ -4,7 +4,7 @@ subtitle:
 description: "VV".
 product_code: APV
 layout: product
-image: /img/pamanda.jpg
+image: https://marcielbp.github.io/CC/img/pamanda.jpg
 features:
     - label: Web Semântica
       icon: fa-location-arrow
