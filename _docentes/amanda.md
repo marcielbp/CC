@@ -1,8 +1,8 @@
 ---
 title: Amanda Drielly Pires Venceslau
 subtitle:
-description: "VV".
-product_code: APV
+description:
+product_code: ADPV
 layout: product
 image: https://marcielbp.github.io/CC/img/pamanda.jpg
 features:
